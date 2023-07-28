@@ -35,7 +35,7 @@ education:
   courses:
     - course: Ph.D. in Economics
       institution: Universidad Carlos III de Madrid
-      year: 2025 (Expected)
+      year: 2025
     - course: Master in Economic Analysis
       institution: Universidad Carlos III de Madrid
       year: 2022
