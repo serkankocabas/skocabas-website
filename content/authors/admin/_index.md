@@ -87,5 +87,4 @@ highlight_name: true
 
 I am a macroeconomist working on Fiscal and Monetary policies, International Macro and Quantitative Macro, currently focusing on climate change and firm heterogeneity.
 
-You can find my CV here.
 {style="text-align: justify;"}
