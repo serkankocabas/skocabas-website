@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Serkan Kocabas
+title: Serkan Kocabaş
 
 # Full name (for SEO)
 first_name: Serkan
-last_name: Kocabas
+last_name: Kocabaş
 
 # Status emoji
 status:
