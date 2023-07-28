@@ -39,10 +39,10 @@ education:
     - course: Master in Economic Analysis
       institution: Universidad Carlos III de Madrid
       year: 2022
-      - course: MSc in Macroeconomic Policy and Financial Markets
+    - course: MSc in Macroeconomic Policy and Financial Markets
       institution: Barcelona School of Economics
       year: 2017
-      - course: BSc in Economics
+    - course: BSc in Economics
       institution: Middle East Technical University
       year: 2015
 
