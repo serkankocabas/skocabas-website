@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Serkan Kocabaş
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Serkan
+last_name: Kocabaş
 
 # Status emoji
 status:
@@ -14,34 +14,37 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universidad Carlos III de Madrid
+    url: https://economics.uc3m.es
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Fiscal and Monetary Theory and Policy
+  - International Macroeconomics
+  - Quantitative Macroeconomics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Economics
+      institution: Universidad Carlos III de Madrid
+      year: 2025(Expected)
+    - course: Master in Economic Analysis
+      institution: Universidad Carlos III de Madrid
+      year: 2022
+      - course: MSc in Macroeconomic Policy and Financial Markets
+      institution: Barcelona School of Economics
+      year: 2017
+      - course: BSc in Economics
+      institution: Middle East Technical University
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,10 +53,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:skocabas@eco.uc3m.es'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/serkankocabas17
     label: Follow me on Twitter
     display:
       header: true
@@ -62,10 +65,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/serkankocabas
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/serkankcbs/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,5 +83,9 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+​​I am a ​Ph.D. Candidate in Economics at Universidad Carlos III de Madrid. 
+
+I am a macroeconomist working on Fiscal and Monetary policies, International Macro and Quantitative Macro, currently focusing on climate change and firm heterogeneity.
+
+You can find my CV here.
 {style="text-align: justify;"}
