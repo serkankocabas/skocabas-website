@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Serkan Kocabaş
+title: Serkan Kocabas
 
 # Full name (for SEO)
 first_name: Serkan
-last_name: Kocabaş
+last_name: Kocabas
 
 # Status emoji
 status:
@@ -22,7 +22,7 @@ organizations:
     url: https://economics.uc3m.es
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed robotics, mobile computing, and programmable matter.
 
 # Interests to show in About widget
 interests:
