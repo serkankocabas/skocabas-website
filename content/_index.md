@@ -102,7 +102,7 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: posts
+    id: Research
     content:
       title: Recent Posts
       subtitle: ''
