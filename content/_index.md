@@ -170,7 +170,7 @@ sections:
           organization: Universidad Carlos III de Madrid
           organization_url: https://economics.uc3m.es
           url: https://economics.uc3m.es/home-phd/
-        - title: Full scholarship for the master program
+        - title: Full scholarship for the Master program
           certificate_url: ''
           date_end: '2022-09-01'
           date_start: '2020-09-01'
@@ -178,7 +178,7 @@ sections:
           organization: Universidad Carlos III de Madrid
           organization_url: https://economics.uc3m.es
           url: https://economics.uc3m.es/masters-in-economic-analysis/
-       - title: Tuition fees waivers for the master program
+       - title: Tuition fees waivers for the Master program
           certificate_url: ''
           date_end: '2017-09-01'
           date_start: '2016-09-01'
