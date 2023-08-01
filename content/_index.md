@@ -178,7 +178,14 @@ sections:
           organization: Universidad Carlos III de Madrid
           organization_url: https://economics.uc3m.es
           url: https://economics.uc3m.es/masters-in-economic-analysis/
-      
+        - title: Waiver for the Master program
+          certificate_url: ''
+          date_end: '2017-09-01'
+          date_start: '2016-09-01'
+          description: ''
+          organization: Barcelona School of Economics
+          organization_url: https://bse.eu
+          url: https://bse.eu/admissions/funding 
 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
