@@ -161,7 +161,7 @@ sections:
           date_end: '2023-09-01'
           date_start: '2022-09-01'
           description: ''
-          organization: Universidad Carlos III de Madrid
+          organization: 'Universidad Carlos III de Madrid'
           organization_url:''
           url: ''
         - title: Ph.D. qualifying exams
