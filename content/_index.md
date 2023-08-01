@@ -27,18 +27,10 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-     - block: Teaching experience
-    content:
-      title: Teaching experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
+- block: Teaching experience
+  content:
+    title: Teaching experience
+    items:
         - title: Teaching Assistant of Monetary and Financial Macroeconomics
           company: Universidad Carlos III de Madrid
           company_url: 'https://aplicaciones.uc3m.es/cpa/generaFicha?est=202&plan=398&asig=13664&idioma=2'
