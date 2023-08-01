@@ -165,7 +165,7 @@ sections:
           organization_url: https://www.coursera.org
           url: ''
         - title: Ph.D. qualifying exams
-          certificate_url: 
+          certificate_url: ''
           date_end: ''
           date_start: '2021-07-01'
           description: Passed all the Ph.D. qualifying exams: Microeconomics, Macroeconomics, and Econometrics
