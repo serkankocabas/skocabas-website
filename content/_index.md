@@ -259,33 +259,27 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: skocabas@eco.uc3m.es
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: Calle Madrid, 126
+        city: Getafe, Madrid
+        postcode: '28903'
+        country: Spain
+        country_code: ES
+      directions: Economics Department, Universidad Carlos III de Madrid
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/serkankocabas17'
         - icon: skype
           icon_pack: fab
           name: Skype Me
-          link: 'skype:echo123?call'
+          link: 'skype:serkan.kocabas'
         - icon: video
           icon_pack: fas
           name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://us05web.zoom.us/j/3089067331?pwd=WlBRbG9Qb3c4SDVJenZTeStzeFR5QT09'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
