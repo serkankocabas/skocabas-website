@@ -162,7 +162,7 @@ sections:
           date_start: '2022-09-01'
           description: ''
           organization: Universidad Carlos III de Madrid
-          organization_url:
+          organization_url:''
           url: ''
         - title: Ph.D. qualifying exams
           certificate_url: ''
