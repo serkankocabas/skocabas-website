@@ -160,13 +160,13 @@ sections:
           certificate_url: https://www.coursera.org
           date_end: '2023-09-01'
           date_start: '2022-09-01'
-          description: 
+          description: ''
           organization: Universidad Carlos III de Madrid
-          organization_url:
-          url: 
+          organization_url: ''
+          url: ''
         - title: Ph.D. qualifying exams
-          certificate_url: 
-          date_end: 
+          certificate_url: ''
+          date_end: ''
           date_start: '2021-07-01'
           description: Passed all the Ph.D. qualifying exams: Microeconomics, Macroeconomics, and Econometrics
           organization: Universidad Carlos III de Madrid
@@ -176,10 +176,10 @@ sections:
           certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
-          description:  
+          description: ''
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          url: 
+          url: ''
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'  
