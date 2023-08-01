@@ -96,7 +96,7 @@ sections:
       columns: '2'
   - block: experience
     content:
-      title: Experience
+      title: Extracurricular activities
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -106,89 +106,43 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Economist
-          company: BBVA Research
-          company_url: 'https://www.bbvaresearch.com/en/geography/turkiye/'
-          company_logo: org-gc
+        - title: Sailing team member
+          company: Garanti-BBVA Sailing Club
+          company_url: 'https://www.instagram.com/garantibbvasailing/'
+          company_logo:
           location: Istanbul, Turkey
           date_start: '2017-11-01'
           date_end: '2020-08-01'
           description: |2-
-              Responsibilities include:
 
-              * The macroeconomic analysis of Turkey; together with the update of several econometric models
-              * Using the dynamic factor model for nowcasting Turkey's GDP growth
-              * Understanding of inﬂation dynamics in Turkey by estimating a Bayesian VAR
-              * Yield curve estimation in Turkey by extended Nelson-Siegel Model including macroeconomic variables
-              * Using the BEAR toolbox for forecasting and policy analysis
-              * Nowcasting the Turkish unemployment rate by using real-time data from Google
-              * Measuring Retail Trade index using card transactional data for Turkey
-              * Using natural language processing (NLP), also known as text mining, to the analysis of the communication policy (i.e.                       statements and minutes) of the Central Bank of Turkey (CBRT)
-              * Composing Foreign Aﬀairs Index by using Google’s Big-Query platform and the GDELT project to explore global risk
-        - title: Intern at UNICEF Country Office
-          company: United Nations
-          company_url: 'https://www.unicef.org/turkiye/'
+              * Received all the necessary training to be a sailor
+              * The certiﬁcation is acquired to race with other teams in Istanbul
+              * Attended many races throughout the membership period
+        - title: Theater Team Member
+          company: Garanti-BBVA Theatre Club
+          company_url: ''
           company_logo: org-gb
           location: Ankara, Turkey
-          date_start: '2016-01-01'
-          date_end: '2016-03-01'
+          date_start: '2017-11-01'
+          date_end: '2020-08-01'
           description: |2-
-              Responsibilities include:
 
-              * Assisted in the preparation of various projects (supply arrangements for Syrian refugees child)
-              * Assisted in the preparation of UNICEF-MoNE Rolling Work Plan 2016 - 2017
-        - title: Project Assistant
-          company: METU-TEKPOL
-          company_url: 'https://stps.metu.edu.tr'
-          company_logo: org-x
+              * Received much training related to developing communication skills, social skills, the ability to understand diﬀerent                      points of view, group working skills, and overall conﬁdence when facing a crowd
+              * Played a role in the Garanti-BBVA commercial
+        - title: Paragliding team member
+          company: METU Aviation Society
+          company_url: ''
+          company_logo: 
           location: Ankara, Turkey
-          date_start: '2014-10-01'
-          date_end: '2015-07-01'
+          date_start: '2012-09-01'
+          date_end: '2014-12-01'
           description: |2-
               Responsibilities include:
-              * Assisted in the preparation of projects about technological change (The importance of occupations in Turkish Labor Markets:                 Job and Wage Polarization)
-              * Assisted in research and working papers for faculty members (Impact of the population exchange of Armenian people on the                    Turkish population and economic growth after the First World War)
+              * Attended all paragliding courses in the club to have some theoretical aspects
+              * Learned ground inﬂation exercises
+              * Made many solo ﬂights, guided by the instructors on the radio
     design:
       columns: '2'    
-  - block: Accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: 
-          date_end: '2020-08-01'
-          date_start: '2017-01-01'
-          description: Received all the necessary training to be a sailor. The certiﬁcation is acquired to race with other teams in                   Istanbul. Attended many races throughout the membership period
-          organization: Garanti-BBVA Sailing Club
-          organization_url: 'https://www.instagram.com/garantibbvasailing/'
-          title: Sailing team member
-          url: 
-        - certificate_url: 
-          date_end: '2020-08-01'
-          date_start: '2017-01-01'
-          description: Received much training related to developing communication skills, social skills, the ability to understand                    diﬀerent points of view, group working skills, and overall conﬁdence when facing a crowd.Played a role in the Garanti-BBVA                  commercial
-          organization: Garanti-BBVA Theatre Club
-          organization_url: 
-          title: Theatre team member
-          url: 
-        - certificate_url: 
-          date_end: '2014-12-01'
-          date_start: '2012-01-01'
-          description: Attended all paragliding courses in the club to have some theoretical aspects. Learned ground inﬂation exercises.              Made many solo ﬂights, guided by the instructors on the radio
-          organization: Middle East Technical University Aviation Society
-          organization_url: 
-          title: Paragliding team member
-          url: ''
-    design:
-      columns: '2'
     ---
   - block: collection
     id: Research
