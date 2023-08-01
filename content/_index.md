@@ -27,7 +27,7 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-    - block: Teaching experience
+  - block: Teaching experience
     content:
       title: Teaching experience
       # Date format for experience
