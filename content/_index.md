@@ -27,10 +27,10 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
- - block: Teaching experience
-   content:
-     title: Teaching experience
-     items:
+  - block: teaching experience
+    content:
+      title: Teaching experience
+      items:
         - title: Teaching Assistant of Monetary and Financial Macroeconomics
           company: Universidad Carlos III de Madrid
           company_url: 'https://aplicaciones.uc3m.es/cpa/generaFicha?est=202&plan=398&asig=13664&idioma=2'
