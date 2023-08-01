@@ -170,15 +170,7 @@ sections:
           organization: Universidad Carlos III de Madrid
           organization_url: https://economics.uc3m.es
           url: https://economics.uc3m.es/home-phd/
-        - title: Master's scholarship
-          certificate_url: ''
-          date_end: '2022-09-01'
-          date_start: '2020-09-01'
-          description: ''
-          organization: Universidad Carlos III de Madrid
-          organization_url: https://economics.uc3m.es
-          url: https://economics.uc3m.es/masters-in-economic-analysis/
-     
+
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'    
