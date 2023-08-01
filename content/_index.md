@@ -178,7 +178,7 @@ sections:
           organization: Universidad Carlos III de Madrid
           organization_url: https://economics.uc3m.es
           url: https://economics.uc3m.es/masters-in-economic-analysis/
-       - title: Master's scholarship
+       - title: Master's waivers
           certificate_url: ''
           date_end: '2017-09-01'
           date_start: '2016-09-01'
