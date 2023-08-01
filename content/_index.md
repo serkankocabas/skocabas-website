@@ -118,7 +118,7 @@ sections:
               * Received all the necessary training to be a sailor
               * The certiﬁcation is acquired to race with other teams in Istanbul
               * Attended many races throughout the membership period
-        - title: Theater Team Member
+        - title: Theater team member
           company: Garanti-BBVA Theatre Club
           company_url: ''
           company_logo: 
