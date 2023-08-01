@@ -142,8 +142,7 @@ sections:
               * Learned ground inﬂation exercises
               * Made many solo ﬂights, guided by the instructors on the radio
     design:
-      columns: '2'    
-    ---
+      columns: '2'
   - block: collection
     id: Research
     content:
