@@ -170,6 +170,22 @@ sections:
           organization: Universidad Carlos III de Madrid
           organization_url: https://economics.uc3m.es
           url: https://economics.uc3m.es/home-phd/
+        - title: Full scholarship for the master program
+          certificate_url: ''
+          date_end: '2022-09-01'
+          date_start: '2020-09-01'
+          description: ''
+          organization: Universidad Carlos III de Madrid
+          organization_url: https://economics.uc3m.es
+          url: https://economics.uc3m.es/masters-in-economic-analysis/
+       - title: 50% tuition fees for the master program
+          certificate_url: ''
+          date_end: '2017-09-01'
+          date_start: '2016-09-01'
+          description: ''
+          organization: Barcelona School of Economics
+          organization_url: https://bse.eu
+          url: https://bse.eu/admissions/funding
 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
