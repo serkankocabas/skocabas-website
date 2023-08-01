@@ -66,6 +66,62 @@ sections:
               * Assisted in the preparation of projects about technological change (The importance of occupations in Turkish Labor Markets:                 Job and Wage Polarization)
               * Assisted in research and working papers for faculty members (Impact of the population exchange of Armenian people on the                    Turkish population and economic growth after the First World War)
     design:
+      columns: '2'    
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Economist
+          company: BBVA Research
+          company_url: 'https://www.bbvaresearch.com/en/geography/turkiye/'
+          company_logo: org-gc
+          location: Istanbul, Turkey
+          date_start: '2017-11-01'
+          date_end: '2020-08-01'
+          description: |2-
+              Responsibilities include:
+
+              * The macroeconomic analysis of Turkey; together with the update of several econometric models
+              * Using the dynamic factor model for nowcasting Turkey's GDP growth
+              * Understanding of inﬂation dynamics in Turkey by estimating a Bayesian VAR
+              * Yield curve estimation in Turkey by extended Nelson-Siegel Model including macroeconomic variables
+              * Using the BEAR toolbox for forecasting and policy analysis
+              * Nowcasting the Turkish unemployment rate by using real-time data from Google
+              * Measuring Retail Trade index using card transactional data for Turkey
+              * Using natural language processing (NLP), also known as text mining, to the analysis of the communication policy (i.e.                       statements and minutes) of the Central Bank of Turkey (CBRT)
+              * Composing Foreign Aﬀairs Index by using Google’s Big-Query platform and the GDELT project to explore global risk
+        - title: Intern at UNICEF Country Office
+          company: United Nations
+          company_url: 'https://www.unicef.org/turkiye/'
+          company_logo: org-gb
+          location: Ankara, Turkey
+          date_start: '2016-01-01'
+          date_end: '2016-03-01'
+          description: |2-
+              Responsibilities include:
+
+              * Assisted in the preparation of various projects (supply arrangements for Syrian refugees child)
+              * Assisted in the preparation of UNICEF-MoNE Rolling Work Plan 2016 - 2017
+        - title: Project Assistant
+          company: METU-TEKPOL
+          company_url: 'https://stps.metu.edu.tr'
+          company_logo: org-x
+          location: Ankara, Turkey
+          date_start: '2014-10-01'
+          date_end: '2015-07-01'
+          description: |2-
+              Responsibilities include:
+              * Assisted in the preparation of projects about technological change (The importance of occupations in Turkish Labor Markets:                 Job and Wage Polarization)
+              * Assisted in research and working papers for faculty members (Impact of the population exchange of Armenian people on the                    Turkish population and economic growth after the First World War)
+    design:
       columns: '2'
   - block: Accomplishments
     content:
