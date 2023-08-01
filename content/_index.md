@@ -190,10 +190,6 @@ sections:
     design:
       columns: '2'
     ---
-title: My page
-type: landing
-
-sections:
   - block: accomplishments
     content:
       title: Accomplishments
