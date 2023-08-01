@@ -156,7 +156,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Pre-Doctoral Scholarship
+        - title: Pre doctoral scholarship
           certificate_url: https://www.coursera.org
           date_end: '2023-09-01'
           date_start: '2022-09-01'
