@@ -210,16 +210,6 @@ sections:
           icon_pack: fas
           name: Zoom Me
           link: 'https://us05web.zoom.us/j/3089067331?pwd=WlBRbG9Qb3c4SDVJenZTeStzeFR5QT09'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
