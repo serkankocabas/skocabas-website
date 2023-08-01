@@ -11,22 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -86,7 +70,7 @@ sections:
   - block: Accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shyments'
+      title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
