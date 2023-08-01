@@ -27,7 +27,6 @@ sections:
           company: Universidad Carlos III de Madrid
           company_url: 'https://aplicaciones.uc3m.es/cpa/generaFicha?est=202&plan=398&asig=13664&idioma=2'
           company_logo: org-y
-          coordinating teacher: Professor Hernan D. Seoane
           location: Madrid, Spain
           date_start: '2021-09-01'
           date_end: ''
