@@ -79,8 +79,8 @@ sections:
           date_end: '2015-07-01'
           description: |2-
               Responsibilities include:
-              * Assisted in the preparation of projects about technological change (The importance of occupations in Turkish Labor Markets: Job and Wage Polarization)
-              * Assisted in research and working papers for faculty members (Impact of the population exchange of Armenian people on the Turkish population and economic growth after the First World War)
+              * Assisted in the preparation of projects about technological change (The importance of occupations in Turkish Labor Markets:                 Job and Wage Polarization)
+              * Assisted in research and working papers for faculty members (Impact of the population exchange of Armenian people on the                    Turkish population and economic growth after the First World War)
     design:
       columns: '2'
   - block: accomplishments
