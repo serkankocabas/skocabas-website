@@ -172,14 +172,22 @@ sections:
           organization: Universidad Carlos III de Madrid
           organization_url: https://economics.uc3m.es
           url: https://economics.uc3m.es/home-phd/
-        - title: 'Object-Oriented Programming in R'
-          certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - title: Master's scholarship
+          certificate_url: ''
+          date_end: '2022-09-01'
+          date_start: '2020-09-01'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          url: ''
+          organization: Universidad Carlos III de Madrid
+          organization_url: https://economics.uc3m.es
+          url: https://economics.uc3m.es/masters-in-economic-analysis/
+       - title: Master's scholarship
+          certificate_url: ''
+          date_end: '2017-09-01'
+          date_start: '2016-09-01'
+          description: ''
+          organization: Barcelona School of Economics
+          organization_url: https://bse.eu
+          url: https://bse.eu/admissions/funding
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'    
