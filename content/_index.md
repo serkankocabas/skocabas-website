@@ -121,7 +121,7 @@ sections:
         - title: Theater Team Member
           company: Garanti-BBVA Theatre Club
           company_url: ''
-          company_logo: org-gb
+          company_logo: 
           location: Ankara, Turkey
           date_start: '2017-11-01'
           date_end: '2020-08-01'
