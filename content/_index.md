@@ -170,13 +170,13 @@ sections:
           date_start: '2021-07-01'
           description: Passed all the Ph.D. qualifying exams: Microeconomics, Macroeconomics, and Econometrics
           organization: Universidad Carlos III de Madrid
-          organization_url: https://economics.uc3m.es
-          url: https://economics.uc3m.es/home-phd/
+          organization_url: 'https://economics.uc3m.es'
+          url: 'https://economics.uc3m.es/home-phd/'
         - title: 'Object-Oriented Programming in R'
           certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
-          description: ''
+          description: '' 
           organization: DataCamp
           organization_url: https://www.datacamp.com
           url: ''
