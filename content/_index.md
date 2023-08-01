@@ -156,7 +156,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Neural Networks and Deep Learning
+        - title: Pre-Doctoral Scholarship at Universidad Carlos III de Madrid
           certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
@@ -164,14 +164,14 @@ sections:
           organization: Coursera
           organization_url: https://www.coursera.org
           url: ''
-        - title: Blockchain Fundamentals
-          certificate_url: https://www.edx.org
+        - title: Ph.D. qualifying exams
+          certificate_url: 
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          date_start: '2021-07-01'
+          description: Passed all the Ph.D. qualifying exams: Microeconomics, Macroeconomics, and Econometrics
+          organization: Universidad Carlos III de Madrid
+          organization_url: https://economics.uc3m.es
+          url: https://economics.uc3m.es/home-phd/
         - title: 'Object-Oriented Programming in R'
           certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
