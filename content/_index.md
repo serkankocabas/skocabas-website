@@ -83,10 +83,10 @@ sections:
               * Assisted in research and working papers for faculty members (Impact of the population exchange of Armenian people on the                    Turkish population and economic growth after the First World War)
     design:
       columns: '2'
-  - block: extracurricular activities
+  - block: Accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'extracurricular activities'
+      title: 'Accomplish&shyments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
