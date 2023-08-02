@@ -160,7 +160,7 @@ sections:
           date_start: ''
           description: ''
           organization: Ministry of Science and innovation of Spain
-          organization_url: https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-predoctorales-formacion-doctoresas-2022
+          organization_url: 'https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-predoctorales-formacion-doctoresas-2022'
           url: ''
         - title: Grant Programa de Personal Investigador Predoctoral en Formacion,PIPF UC3M 01-1920
           certificate_url: ''
