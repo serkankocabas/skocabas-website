@@ -145,7 +145,7 @@ sections:
       columns: '2'
   - block: accomplishments
     content:
-      title: Accomplishments
+      title: Fellowships, honors, and awards
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
