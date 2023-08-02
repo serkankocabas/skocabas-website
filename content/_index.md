@@ -159,7 +159,7 @@ sections:
           date_end: '2023-09-01'
           date_start: ''
           description: ''
-          organization: Ministry of Science and innovation of Spain
+          organization: Ministry of Science and Innovation of Spain
           organization_url: ''
           url: ''
         - title: Grant Programa de Personal Investigador Predoctoral en Formacion,PIPF UC3M 01-1920
@@ -198,11 +198,10 @@ sections:
           certificate_url: ''
           date_end: '2010-09-01'
           date_start: '2015-06-01'
-          description: Semester success certificate; this is a document given to “Honors” or “High Honors” students at the end of a                   semester.
+          description: A semester success certificate is a document given to “Honors” or “High Honors” students at the end of a                   semester
           organization: Middle East Technical University
           organization_url: https://www.metu.edu.tr
           url: https://oidb.metu.edu.tr/en/middle-east-technical-university-rules-and-regulations-governing-undergraduate-studies    
-
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'    
