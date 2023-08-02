@@ -156,8 +156,8 @@ sections:
       items:
         - title: Grant Formacion de Personal Investigador (FPI)
           certificate_url: ''
-          date_end: '2023-09-01'
-          date_start: ''
+          date_end: ''
+          date_start: '2023-09-01'
           description: ''
           organization: Ministry of Science and Innovation of Spain
           organization_url: ''
