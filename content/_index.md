@@ -224,7 +224,7 @@ sections:
           location: Aegina, Greece
           date_start: '2023-06-01'
           date_end: ''
-        - title: The EABCN Training School “Finance for Macroeconomists: High-Frequency Analysis, News, Surprises and Shocks”
+        - title: 'The EABCN Training School “Finance for Macroeconomists: High-Frequency Analysis, News, Surprises and Shocks”'
           company: CEPR and Bilkent University
           company_url: 'https://eabcn.org/event/finance-macroeconomists-high-frequency-analysis-news-surprises-and-shocks'
           company_logo: 
