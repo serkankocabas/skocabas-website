@@ -122,7 +122,7 @@ sections:
           company: Garanti-BBVA Theatre Club
           company_url: ''
           company_logo: 
-          location: Ankara, Turkey
+          location: Istanbul, Turkey
           date_start: '2017-11-01'
           date_end: '2020-08-01'
           description: |2-
@@ -145,7 +145,7 @@ sections:
       columns: '2'
   - block: accomplishments
     content:
-      title: Accomplishments
+      title: Fellowships, Honors, and Awards
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -154,7 +154,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Pre-doctoral scholarship
+        - title: Grant Formacion de Personal Investigador (FPI)
+          certificate_url: ''
+          date_end: '2023-09-01'
+          date_start: ''
+          description: ''
+          organization: Ministry of Science and innovation of Spain
+          organization_url: https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-predoctorales-formacion-doctoresas-2022
+          url: ''
+        - title: Grant Programa de Personal Investigador Predoctoral en Formacion,PIPF UC3M 01-1920
           certificate_url: ''
           date_end: '2023-09-01'
           date_start: '2022-09-01'
@@ -170,7 +178,7 @@ sections:
           organization: Universidad Carlos III de Madrid
           organization_url: https://economics.uc3m.es
           url: https://economics.uc3m.es/home-phd/
-        - title: Full scholarship for the Master program
+        - title: Scholarship for the Master in Economic Analysis
           certificate_url: ''
           date_end: '2022-09-01'
           date_start: '2020-09-01'
@@ -178,14 +186,30 @@ sections:
           organization: Universidad Carlos III de Madrid
           organization_url: https://economics.uc3m.es
           url: https://economics.uc3m.es/masters-in-economic-analysis/
-        - title: Waiver for the Master program
+        - title: Scholarship for the Master in Macroeconomic Policy and Financial Markets
           certificate_url: ''
           date_end: '2017-09-01'
           date_start: '2016-09-01'
           description: ''
           organization: Barcelona School of Economics
           organization_url: https://bse.eu
-          url: https://bse.eu/admissions/funding 
+          url: https://bse.eu/admissions/funding
+        - title: Scholarship for the Bachelor of Science in Economics
+          certificate_url: ''
+          date_end: '2010-09-01'
+          date_start: '2015-06-01'
+          description: ''
+          organization: Middle East Technical University
+          organization_url: https://www.metu.edu.tr
+          url: ''
+        - title: Honor and high honor certificates
+          certificate_url: ''
+          date_end: '2010-09-01'
+          date_start: '2015-06-01'
+          description: Semester success certificate; this is a document given to “Honors” or “High Honors” students at the end of a                   semester.
+          organization: Middle East Technical University
+          organization_url: https://www.metu.edu.tr
+          url: https://oidb.metu.edu.tr/en/middle-east-technical-university-rules-and-regulations-governing-undergraduate-studies    
 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
