@@ -145,7 +145,7 @@ sections:
       columns: '2'
   - block: accomplishments
     content:
-      title: accomplishments
+      title: Accomplishments
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -170,14 +170,6 @@ sections:
           organization: Universidad Carlos III de Madrid
           organization_url: https://economics.uc3m.es
           url: ''
-        - title: Ph.D. qualifying exams
-          certificate_url: ''
-          date_end: ''
-          date_start: '2021-07-01'
-          description: Passed all the Ph.D. qualifying exams; Microeconomics, Macroeconomics, and Econometrics
-          organization: Universidad Carlos III de Madrid
-          organization_url: https://economics.uc3m.es
-          url: https://economics.uc3m.es/home-phd/
         - title: Scholarship for the Master in Economic Analysis
           certificate_url: ''
           date_end: '2022-09-01'
