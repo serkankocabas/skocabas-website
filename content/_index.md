@@ -177,7 +177,31 @@ sections:
           description: ''
           organization: Universidad Carlos III de Madrid
           organization_url: https://economics.uc3m.es
-          url: https://economics.uc3m.es/masters-in-economic-analysis/   
+          url: https://economics.uc3m.es/masters-in-economic-analysis/
+        - title: Scholarship for the Master in Macroeconomic Policy and Financial Markets
+          certificate_url: ''
+          date_end: '2017-09-01'
+          date_start: '2016-09-01'
+          description: ''
+          organization: Barcelona School of Economics
+          organization_url: https://bse.eu
+          url: https://bse.eu/admissions/funding
+        - title: Scholarship for the Bachelor of Science in Economics
+          certificate_url: ''
+          date_end: '2010-09-01'
+          date_start: '2015-06-01'
+          description: ''
+          organization: Middle East Technical University
+          organization_url: https://www.metu.edu.tr
+          url: ''
+        - title: Honor and high honor certificates
+          certificate_url: ''
+          date_end: '2010-09-01'
+          date_start: '2015-06-01'
+          description: A semester success certificate is a document given to “Honors” or “High Honors” students at the end of a                       semester
+          organization: Middle East Technical University
+          organization_url: https://www.metu.edu.tr
+          url: https://oidb.metu.edu.tr/en/middle-east-technical-university-rules-and-regulations-governing-undergraduate-studies    
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'    
