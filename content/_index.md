@@ -160,7 +160,7 @@ sections:
           certificate_url: ''
           date_end: ''
           date_start: '2021-07-01'
-          description: Passed all the Ph.D. qualifying exams; Microeconomics, Macroeconomics, and Econometrics
+          description: Passed all the Ph.D. qualifying exams Microeconomics, Macroeconomics, and Econometrics
           organization: Universidad Carlos III de Madrid
           organization_url: https://economics.uc3m.es
           url: https://economics.uc3m.es/home-phd/  
