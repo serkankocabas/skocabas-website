@@ -145,7 +145,7 @@ sections:
               * Made many solo ﬂights, guided by the instructors on the radio
     design:
       columns: '2'
-- block: accomplishments
+  - block: accomplishments
     content:
       title: Achievements
       # Date format: https://wowchemy.com/docs/customization/#date-format
