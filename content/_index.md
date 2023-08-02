@@ -12,6 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
+    id: teaching
     content:
       title: Teaching experience
       # Date format for experience
@@ -39,6 +40,7 @@ sections:
     design:
       columns: '2'    
   - block: experience
+    id: vitae
     content:
       title: Experience
       # Date format for experience
@@ -254,7 +256,6 @@ sections:
     design:
       columns: '2'    
   - block: collection
-    id: Research
     content:
       title: Recent Posts
       subtitle: ''
@@ -281,7 +282,7 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-    id: projects
+    id: 
     content:
       title: Projects
       filters:
