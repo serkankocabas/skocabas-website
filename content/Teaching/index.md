@@ -6,7 +6,6 @@ type: landing
 
 sections:  
   - block: experience
-    id: teaching
     content:
       title: Teaching experience
       # Date format for experience
