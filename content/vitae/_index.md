@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Vitae
 cms_exclude: true
 
 # View.
