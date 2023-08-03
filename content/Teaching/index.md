@@ -4,13 +4,7 @@ title:
 date: 2022-10-24
 type: landing
 
-sections:
-  - block: about.biography
-    id: about
-    content:
-      title: Biography
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+sections:  
   - block: experience
     id: teaching
     content:
@@ -36,34 +30,6 @@ sections:
 
               * The course was designed to teach the role of money and other ﬁnancial assets in the economy, the determinants of money                      demand and supply, the role of monetary policy, and the functioning of the money and ﬁnancial markets
               * Teaching 90 minutes per week by reviewing the lecture and solving problem sets and hold weekly oﬃce hours for 50 students.                 Additionally, I prepared a midterm and ﬁnal exams for the course all by myself and graded all their exams
-           
-    design:
-      columns: '2'    
-   - block: contact
-    id: contact
-    content:
-      title: Contact
-      email: skocabas@eco.uc3m.es
-      address:
-        street: Calle Madrid, 126
-        city: Getafe, Madrid
-        postcode: '28903'
-        country: Spain
-        country_code: ES
-      directions: Economics Department, Universidad Carlos III de Madrid
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/serkankocabas17'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:serkan.kocabas'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://us05web.zoom.us/j/3089067331?pwd=WlBRbG9Qb3c4SDVJenZTeStzeFR5QT09'
-    design:
-      columns: '2'
+      design:
+        columns: '2'  
 ---

@@ -12,7 +12,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -30,7 +30,7 @@ featured: true
 links:
 - name: Custom Link
   url: 
-url_pdf: /uploads/bachelor_dissertation.pdf
+url_pdf: /uploads/metu_paper.pdf
 url_code: 
 url_dataset: '#'
 url_poster: '#'
