@@ -6,9 +6,7 @@ title: Serkan Kocabaş
 first_name: Serkan
 last_name: Kocabaş
 
-# Status emoji
-status:
-  icon: ☕️
+
 
 # Is this the primary user of the site?
 superuser: true
