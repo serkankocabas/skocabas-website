@@ -7,10 +7,6 @@ title: 'Shocks and Frictions in Euro Area and Turkey Business Cycles: a Bayesian
 authors:
   - admin
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
 date: '2017-06-01T00:00:00Z'
 doi: ''
@@ -22,7 +18,7 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['4']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
@@ -30,8 +26,6 @@ publication_short: In *ICW*
 
 abstract: In the joint work of the master’s project, we provided a version of the DSGE model following Smets and Wouters (2007) for the Euro-Area-19 and Turkey. The model included several nominal and real rigidities, such as sticky prices, sticky wages that adjusted following a Calvo mechanism, and investment adjustment costs. The theoretical framework encompassed seven orthogonal disturbances for each structural equation. Using Bayesian techniques and data on seven macroeconomic variables, the model aimed to describe the main features of the economies for policy analysis. On one side, we elaborated on the framework offered by the New Keynesian DSGE models, comparing its ability to capture data dynamics for two intrinsically different economies, Turkey, an emerging, small open, and the Euro-Area, an advanced economy. On the other hand, we also assessed the relative importance of the different structural shocks as sources of business cycle movements in the two economies considered. In particular, we focused on identifying the main drivers of output and consumption dynamics.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -59,20 +53,7 @@ image:
   focal_point: ''
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
 {{% callout note %}}
