@@ -277,27 +277,6 @@ sections:
               * Professors John Hassler and Per Krusell taught a three-day online class on "Climate Change and its Effects on                               Macro/Monetary Policy"
     design:
       columns: '2'    
-  - block: collection
-    id: research
-    content:
-      title: Work in Progress
-      filters:
-        folders:
-          - Work in Progress
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Working papers
-      filters:
-        folders: 
-          - Working papers
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: contact
     id: contact
     content:
