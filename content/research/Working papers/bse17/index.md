@@ -24,27 +24,19 @@ abstract: This paper estimates a New Keynesian DSGE model for the Euro Area and 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- New Keynesian DSGE model, Bayesian estimation, Turkish Economy, Euro Area, Central Bank, Monetary Policy
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
 url_pdf: uploads/bse_paper.pdf
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
