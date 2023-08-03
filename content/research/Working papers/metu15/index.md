@@ -25,12 +25,12 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: Custom Link
   url: 
-url_pdf: /static/bachelor_dissertation.pdf
+url_pdf: /uploads/bachelor_dissertation.pdf
 url_code: 
 url_dataset: '#'
 url_poster: '#'
