@@ -8,7 +8,7 @@
 appearance:
   theme_day: Earth
   theme_night: Earth
-  font: Classic
+  font: modern
   font_size: L
 
 # SEO
