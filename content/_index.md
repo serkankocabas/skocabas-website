@@ -283,7 +283,7 @@ sections:
       title: Work in Progress
       filters:
         folders:
-          - publication
+          - Work in Progress
         featured_only: true
     design:
       columns: '2'
@@ -293,7 +293,7 @@ sections:
       title: Working papers
       filters:
         folders: 
-          - publication
+          - Working papers
         exclude_featured: true
     design:
       columns: '2'
