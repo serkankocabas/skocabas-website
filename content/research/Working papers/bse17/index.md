@@ -40,16 +40,13 @@ tags:
 - Monetary Policy
     
 # Display this page in the Featured widget?
-featured: true
+featured: false
     
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+
     
 url_pdf: uploads/bse_paper.pdf
-url_code: 'https://github.com/battle-lab/twn_tsn'
-url_dataset: 'https://gtexportal.org/home/datasets#filesetFilesDiv76'
+url_code: '''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
