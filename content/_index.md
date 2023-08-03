@@ -36,10 +36,9 @@ sections:
 
               * The course was designed to teach the role of money and other ﬁnancial assets in the economy, the determinants of money                      demand and supply, the role of monetary policy, and the functioning of the money and ﬁnancial markets
               * Teaching 90 minutes per week by reviewing the lecture and solving problem sets and hold weekly oﬃce hours for 50 students.                 Additionally, I prepared a midterm and ﬁnal exams for the course all by myself and graded all their exams
-           
     design:
       columns: '2'    
-   - block: contact
+  - block: contact
     id: contact
     content:
       title: Contact
