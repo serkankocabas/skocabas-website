@@ -335,7 +335,7 @@ sections:
     content:
       title: Featured Publications
       filters:
-        folders:
+        folders: Work in Progress
           - publication
         featured_only: true
     design:
@@ -344,12 +344,8 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
-        folders:
+        folders: Working papers
           - publication
         exclude_featured: true
     design:
