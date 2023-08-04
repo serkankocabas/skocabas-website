@@ -34,7 +34,7 @@ sections:
         - title: Master of Arts in Macroeconomic Policy and Financial Markets
           company: Barcelona School of Economics
           company_url: 'https://bse.eu/study/masters-programs/macroeconomic-policy-and-financial-markets'
-          company_logo: org-x
+          company_logo: org-b
           location: Barcelona, Spain
           date_start: '2016-09-01'
           date_end: '2017-07-01'
