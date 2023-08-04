@@ -258,7 +258,7 @@ sections:
           date_end: ''
           date_start: ''
           description: ''
-          organization: Ministry of Science and Innovation of Spain
+          organization: ''
           organization_url: ''
           url: 'https://sites.google.com/site/evipappapersonalhomepage/home'
         - title: Prof. Hernan D. Seoane
@@ -276,7 +276,7 @@ sections:
           description: ''
           organization: ''
           organization_url: ''
-          url: https://www.bbvaresearch.com/en/author/alvaroortiz/
+          url: 'https://www.bbvaresearch.com/en/author/alvaroortiz/'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'                  
