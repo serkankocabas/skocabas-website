@@ -260,7 +260,7 @@ sections:
           description: ''
           organization: ''
           organization_url: ''
-          url: 'https://sites.google.com/site/evipappapersonalhomepage/home'
+          url: https://sites.google.com/site/evipappapersonalhomepage/home
         - title: Prof. Hernan D. Seoane
           certificate_url: ''
           date_end: ''
@@ -268,7 +268,7 @@ sections:
           description: ''
           organization: ''
           organization_url: ''
-          url: 'https://sites.google.com/view/hernanseoane'
+          url: https://sites.google.com/view/hernanseoane
         - title: Alvaro Ortiz
           certificate_url: ''
           date_end: ''
@@ -276,7 +276,7 @@ sections:
           description: ''
           organization: ''
           organization_url: ''
-          url: 'https://www.bbvaresearch.com/en/author/alvaroortiz/'
+          url: https://www.bbvaresearch.com/en/author/alvaroortiz/
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'                  
