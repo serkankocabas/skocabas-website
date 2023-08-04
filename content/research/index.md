@@ -10,8 +10,7 @@ sections:
     content:
       title: Working papers
       filters:
-        folders:
-          - content/research
+        folders: research
         featured_only: true
     design:
       columns: '2'
@@ -24,8 +23,7 @@ sections:
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
       filters:
-        folders:
-          - content/research
+        folders: research
         exclude_featured: true
     design:
       columns: '2'
