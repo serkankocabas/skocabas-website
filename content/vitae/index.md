@@ -4,7 +4,49 @@ title:
 date: 2022-10-24
 type: landing
 
-sections:  
+sections:
+  - block: experience
+    content:
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Ph.D. in Economics
+          company: Universidad Carlos III de Madrid
+          company_url: 'https://economics.uc3m.es/home-phd/'
+          company_logo: org-y
+          location: Madrid, Spain
+          date_start: '2022-09-01'
+          date_end: ''
+        - title: Master of Research in Economic Analysis
+          company: Universidad Carlos III de Madrid
+          company_url: 'https://www.uc3m.es/master/economic-analysis'
+          company_logo: org-y
+          location: Madrid, Spain
+          date_start: '2020-09-01'
+          date_end: '2022-09-01'
+        - title: Master of Arts in Macroeconomic Policy and Financial Markets
+          company: Barcelona School of Economics
+          company_url: 'https://bse.eu/study/masters-programs/macroeconomic-policy-and-financial-markets'
+          company_logo: org-x
+          location: Barcelona, Spain
+          date_start: '2016-09-01'
+          date_end: '2017-07-01'
+        - title: Bachelor of Science in Economics
+          company: Middle East Technical University
+          company_url: 'https://econ.metu.edu.tr/en'
+          company_logo: org-x
+          location: Ankara, Turkey
+          date_start: '2010-09-01'
+          date_end: '2015-06-01'
+    design:
+      columns: '2'
   - block: experience
     content:
       title: Experience
@@ -242,42 +284,4 @@ sections:
               * Made many solo ﬂights, guided by the instructors on the radio
     design:
       columns: '2'
-  - block: accomplishments
-    content:
-      title: References
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `items` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Prof. Evi Pappa
-          certificate_url: ''
-          date_end: ''
-          date_start: ''
-          description: ''
-          organization: ''
-          organization_url: ''
-          url: https://sites.google.com/site/evipappapersonalhomepage/home
-        - title: Prof. Hernan D. Seoane
-          certificate_url: ''
-          date_end: ''
-          date_start: ''
-          description: ''
-          organization: ''
-          organization_url: ''
-          url: https://sites.google.com/view/hernanseoane
-        - title: Alvaro Ortiz
-          certificate_url: ''
-          date_end: ''
-          date_start: ''
-          description: ''
-          organization: ''
-          organization_url: ''
-          url: https://www.bbvaresearch.com/en/author/alvaroortiz/
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'                  
 ---
