@@ -299,7 +299,7 @@ sections:
           certificate_url: ''
           date_end: ''
           date_start: ''
-          description: [pappa@eco.uc3m.es](ppappa@eco.uc3m.es)
+          description: ''
           organization: ''
           organization_url: ''
           url: https://sites.google.com/site/evipappapersonalhomepage/home
@@ -307,7 +307,7 @@ sections:
           certificate_url: ''
           date_end: ''
           date_start: ''
-          description: [hseoane@eco.uc3m.es](hseoane@eco.uc3m.es)
+          description: ''
           organization: ''
           organization_url: ''
           url: https://sites.google.com/view/hernanseoane
@@ -315,7 +315,7 @@ sections:
           certificate_url: ''
           date_end: ''
           date_start: ''
-          description: [alvaro.ortiz@bbva.com](alvaro.ortiz@bbva.com)
+          description: ''
           organization: ''
           organization_url: ''
           url: https://www.bbvaresearch.com/en/author/alvaroortiz/    
