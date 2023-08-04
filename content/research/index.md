@@ -11,7 +11,7 @@ sections:
       title: Working papers
       filters:
         folders:
-          - research
+          - content/research
         featured_only: true
     design:
       columns: '2'
@@ -25,7 +25,7 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - research
+          - content/research
         exclude_featured: true
     design:
       columns: '2'
