@@ -29,7 +29,7 @@ publication_short: ''
 abstract: This paper estimates a New Keynesian DSGE model for the Euro Area and the Turkish economy using Bayesian estimation techniques and seven macroeconomic time series. The setting of the model features a number of nominal and real frictions and seven structural shocks are introduced. An analysis of the response of the two economies to these types of shocks is provided in a comparative fashion along with a study of the driving forces of the main macroeconomic dynamics through shock decomposition, with a focus on output and consumption.
 
 # Summary. An optional shortened abstract.
-summary: his paper estimates a New Keynesian DSGE model for the Euro Area and the Turkish economy using Bayesian estimation techniques and seven macroeconomic time series.
+summary: This paper estimates a New Keynesian DSGE model for the Euro Area and the Turkish economy using Bayesian estimation techniques and seven macroeconomic time series.
 
 tags: 
 - New Keynesian DSGE model
@@ -59,7 +59,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/qfrtUw4NBPQ)'
   focal_point: ''
   preview_only: false
 
@@ -68,7 +68,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:[]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
