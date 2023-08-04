@@ -19,10 +19,6 @@ sections:
   - block: collection
     content:
       title: Work in progress
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders: 
         - publication
