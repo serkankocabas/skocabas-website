@@ -284,4 +284,42 @@ sections:
               * Made many solo ﬂights, guided by the instructors on the radio
     design:
       columns: '2'
+  - block: accomplishments
+    content:
+      title: References
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `items` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Prof. Evi Pappa
+          certificate_url: ''
+          date_end: ''
+          date_start: ''
+          description: pappa@eco.uc3m.es[ppappa@eco.uc3m.es]
+          organization: ''
+          organization_url: ''
+          url: https://sites.google.com/site/evipappapersonalhomepage/home
+        - title: Prof. Hernan D. Seoane
+          certificate_url: ''
+          date_end: ''
+          date_start: ''
+          description: hseoane@eco.uc3m.es[hseoane@eco.uc3m.es]
+          organization: ''
+          organization_url: ''
+          url: https://sites.google.com/view/hernanseoane
+        - title: Alvaro Ortiz
+          certificate_url: ''
+          date_end: ''
+          date_start: ''
+          description: alvaro.ortiz@bbva.com[alvaro.ortiz@bbva.com]
+          organization: ''
+          organization_url: ''
+          url: https://www.bbvaresearch.com/en/author/alvaroortiz/    
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'     
 ---
