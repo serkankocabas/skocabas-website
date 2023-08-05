@@ -39,4 +39,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
-          github_token: ${{ example_token }}
+          github_token: ${{ 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 }}
