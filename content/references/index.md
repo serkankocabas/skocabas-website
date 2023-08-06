@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: accomplishments
+  - block: markdown
     content:
       title: References
       # Date format: https://wowchemy.com/docs/customization/#date-format
@@ -17,9 +17,6 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Prof. Evi Pappa
-          certificate_url: ''
-          date_end: ''
-          date_start: '2022-06-01'
           description: ppappa@eco.uc3m.es
           organization: Universidad Carlos III de Madrid
           organization_url: https://economics.uc3m.es
