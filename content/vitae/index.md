@@ -298,7 +298,7 @@ sections:
         - title: Prof. Evi Pappa
           certificate_url: ''
           date_end: ''
-          date_start: ''
+          date_start: '2022-06-01'
           description: ppappa@eco.uc3m.es
           organization: Universidad Carlos III de Madrid
           organization_url: ''
@@ -306,7 +306,7 @@ sections:
         - title: Prof. Hernan D. Seoane
           certificate_url: ''
           date_end: ''
-          date_start: ''
+          date_start: '2022-06-01'
           description: hseoane@eco.uc3m.es
           organization: Universidad Carlos III de Madrid
           organization_url: 
@@ -314,7 +314,7 @@ sections:
         - title: Alvaro Ortiz
           certificate_url: ''
           date_end: ''
-          date_start: ''
+          date_start: '2017-11-01'
           description: alvaro.ortiz@bbva.com
           organization: BBVA Research
           organization_url: https://www.bbvaresearch.com/en/
