@@ -301,7 +301,7 @@ sections:
           date_start: '2022-06-01'
           description: ppappa@eco.uc3m.es
           organization: Universidad Carlos III de Madrid
-          organization_url: ''
+          organization_url: https://economics.uc3m.es
           url: https://sites.google.com/site/evipappapersonalhomepage/home
         - title: Prof. Hernan D. Seoane
           certificate_url: ''
@@ -309,7 +309,7 @@ sections:
           date_start: '2022-06-01'
           description: hseoane@eco.uc3m.es
           organization: Universidad Carlos III de Madrid
-          organization_url: 
+          organization_url: https://economics.uc3m.es
           url: https://sites.google.com/view/hernanseoane
         - title: Alvaro Ortiz
           certificate_url: ''
