@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://serkankocabas.github.io/sitemap.xml
+Sitemap: https://serkankocabas.github.io/skocabas-website/sitemap.xml
